@@ -24,5 +24,6 @@ The Motor object uses a function from Device even though Motor never wrote it.
 It also uses the power calculation from ElectricalDevice.
 It has its own function for showing speed and output power.
 A plain ElectricalDevice (a kettle) cannot use Motor's function, because inheritance only flows downward.
+<img width="3072" height="4080" alt="IMG_20261026_200336009~2" src="https://github.com/user-attachments/assets/9dcc24cc-067f-4234-9add-4a607a9e9ee7" />
 
 
