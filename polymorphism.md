@@ -22,3 +22,7 @@ NOTE
 The parent function must be virtual for polymorphism to work.
 Without virtual, the parent's version would always run.
 New component types can be added later without changing code that uses Component.
+
+<img width="3072" height="2747" alt="IMG_20261026_200358901~2" src="https://github.com/user-attachments/assets/6f67bc09-d4cb-4d6d-984c-ee2ec1ddae66" />
+
+
